@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Check this file every time before publish -->
+    <!-- Check the  1.********** channel *************** in the manifest file -->
+    <!-- Ensure the 2.********** IS_DUBUG ************** is false -->
+    <!-- Close the  3.********** test entrance ********* of new features. Remember to check the AboutActivity  -->
+    <!-- Modify the 4.********** versionCode *********** in the manifest file -->
+
+    <!-- Default port: http://lejent.com:8503 -->
+    <!-- http://123.57.255.68:18801 -->
+    <string name="version">1.20.1210</string>
+    <string name="port">http://lejent.com:8504/</string>
+</resources>
